@@ -1,0 +1,28 @@
+*{
+    max-width: 250px;
+    margin: auto;
+    margin-top: 20px; 
+}
+
+#left{
+    background-color: red;
+}
+
+#right{
+    background-color: blue;
+}
+
+#extra {
+    background-color: green;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+button {
+    margin-right: 10px;
+    padding: 7px;
+    width: 55px;
+    color: white;
+}
